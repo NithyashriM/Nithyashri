@@ -1,2 +1,4 @@
-# Nithyashri
-project is water quality monitoring system using iot
+THIS IS PYTHON PROJECT
+
+
+
